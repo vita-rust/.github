@@ -2,6 +2,8 @@
 
 Welcome to the GitHub organization Vita-Rust, dedicated to supporting [Rust programming language](https://www.rust-lang.org/) on the PlayStation Vita platform. Our goal is to provide a seamless Rust development experience for PlayStation Vita enthusiasts and developers.
 
+Please refer to our [wiki](https://github.com/vita-rust/std-newlib/wiki) to find out how to start developing applications in rust for Vita. The wiki is a work in progress, and we encourage you to contribute by adding any information you discover.
+
 ## Getting Started 🚀
 
 To get started with Rust development on the PlayStation Vita, please note the following points:
@@ -12,7 +14,7 @@ To get started with Rust development on the PlayStation Vita, please note the fo
 
 3. Currently, compilation and linking are only supported with the **Vita SDK toolchain**. It is essential to set up the Vita SDK toolchain on your development environment to build Rust applications for the PlayStation Vita. To learn more about the Vita SDK toolchain and installation instructions, visit [vitasdk.org](https://vitasdk.org/).
 
-4. While the std library is supported, there may still be some unsupported or non-functioning features. Please refer to our [wiki](https://github.com/vita-rust/std-newlib/wiki) for an overview of the current limitations and known issues. The wiki is a work in progress, and we encourage you to contribute by adding any information you discover.
+4. While the std library is supported, there may still be some unsupported or non-functioning features.
 
 5. Please note that not all Rust crates will work out-of-the-box on the PlayStation Vita. Crates that rely on platform-dependent code or have `libc` dependencies outside the std library may not be compatible. It is essential to consider the platform limitations when selecting crates for your PlayStation Vita projects.
 
