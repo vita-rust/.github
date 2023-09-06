@@ -22,6 +22,10 @@ To get started with Rust development on the PlayStation Vita, please note the fo
 
 We welcome and appreciate contributions and feedback from the Vita-Rust community. Whether you want to report an issue, suggest improvements, or contribute code, we encourage you to get involved and help us enhance the Rust ecosystem on the PlayStation Vita.
 
+## Communication 🤙
+
+If you have any questions, suggestions or want to start some discussions, you can do so on [HENKaku](https://discord.gg/m7MwpKA) Discord server in [#rust](https://discord.com/channels/439481392548675594/1148989867699744909) channel. When you join the server please read and follow the rules.
+
 ## Disclaimer ⚠️
 
 Vita-Rust is an independent organization and is not affiliated with Sony or its proprietary SDK. We do not utilize Sony's proprietary SDK in our development efforts. Vita-Rust aims to provide an open-source platform for Rust developers interested in PlayStation Vita programming.
