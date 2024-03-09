@@ -2,7 +2,7 @@
 
 Welcome to the GitHub organization Vita-Rust, dedicated to supporting [Rust programming language] on the PlayStation Vita platform. Our goal is to provide a seamless Rust development experience for PlayStation Vita enthusiasts and developers.
 
-Please refer to our [Rust on Sony PlayStation Vita Book] to find out how to start developing applications in Rust for Vita. The wiki is a work in progress, and we would like to encourage you to contribute by adding any information necessary.
+Please refer to our [Rust on Sony PlayStation Vita Book] to find out how to start developing applications in Rust for Vita and the [examples] repository. The book is a work in progress, and we would like to encourage you to contribute by adding any information necessary.
 
 ## Getting Started 🚀
 
@@ -35,6 +35,7 @@ Thank you for joining Vita-Rust! We hope this organization serves as a valuable 
 
 [Rust programming language]: https://www.rust-lang.org/
 [Rust on Sony PlayStation Vita Book]: https://vita-rust.github.io/book/
+[examples]: https://github.com/vita-rust/examples/
 [Tier 3 target]: https://doc.rust-lang.org/nightly/rustc/platform-support/armv7-sony-vita-newlibeabihf.html
 [newlib]: https://github.com/vitasdk/newlib
 [Vita SDK]: https://vitasdk.org/
